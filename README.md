@@ -8,4 +8,6 @@ This and linked pages are a collection of learn to code (and learn to code bette
 
 ## Improving coding
 
-https://www.freecodecamp.com/
+Link | Notes
+-----|------
+https://www.freecodecamp.com/ | Be good to improve on js, and try out node.  Also has stuff on SQL, CSS, React and D3.
