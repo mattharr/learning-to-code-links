@@ -5,6 +5,9 @@ This and linked pages are a collection of learn to code (and learn to code bette
 ## For Younger Kids
 
 
+## For Older kids / Projects
+https://www.ibm.com/developerworks/community/blogs/code-rally/entry/zero_to_racing_in_60_seconds?lang=en
+
 
 ## Improving coding
 
