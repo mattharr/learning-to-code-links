@@ -11,3 +11,4 @@ This and linked pages are a collection of learn to code (and learn to code bette
 Link | Notes
 -----|------
 https://www.freecodecamp.com/ | Be good to improve on js, and try out node.  Also has stuff on SQL, CSS, React and D3.
+https://www.codewars.com/ | Good to improve understanding of different languages.  A nice set of debugging trials to work through.
