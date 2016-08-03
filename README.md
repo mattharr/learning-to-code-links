@@ -9,7 +9,9 @@ https://code.org/
 ## Learning to type
 One of the key (pun parially intended), things next is for kids to know where the keys are:
 http://www.bbc.co.uk/schools/typing/
+
 https://www.typingclub.com/
+
 https://typing.io/   (?)
 
 ## For Older kids / Projects (text coding)
