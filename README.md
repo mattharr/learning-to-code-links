@@ -28,6 +28,7 @@ http://www.spacechemthegame.com/
 
 https://www.ibm.com/developerworks/community/blogs/code-rally/entry/zero_to_racing_in_60_seconds?lang=en
 
+https://www.stockfighter.io/
 
 ## Improving coding
 
