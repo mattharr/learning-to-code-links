@@ -14,6 +14,9 @@ https://www.typingclub.com/
 
 https://typing.io/   (?)
 
+## Simple coding
+Logo - https://turtleacademy.com/
+
 ## For Older kids / Projects (text coding)
 https://codecombat.com/
 
