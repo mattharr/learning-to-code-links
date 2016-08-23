@@ -5,6 +5,8 @@ This and linked pages are a collection of learn to code (and learn to code bette
 ## For Younger Kids
 https://code.org/
 
+https://scratch.mit.edu/
+
 
 ## Learning to type
 One of the key (pun parially intended), things next is for kids to know where the keys are:
